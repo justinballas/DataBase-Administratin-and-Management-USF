@@ -1,0 +1,1 @@
+select LastName, State, Zip from Patient
